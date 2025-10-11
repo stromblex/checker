@@ -5,35 +5,36 @@
     "line-text-1": "", 
     "line-text-2": "",
     "version": "1.0.0",
-    "download": "https://optisodium.fun/predownload?version=1.21.9",
+    "download": "https://optisodium.fun/predownload?version=1.21.10",
     "changelog": ""
   },
   {
     "version-minecraft": "1.21.9",
-    "new-version-minecraft": false,
-    "line-text-1": "", 
-    "line-text-2": "",
+    "new-version-minecraft": true,
+    "line-text-1": "Modpack is available for Minecraft version 1.21.10", 
+    "line-text-2": "You can download it from optisodium.fun or Modrinth.",
     "version": "1.0.0",
     "download": "https://optisodium.fun/predownload?version=1.21.9",
     "changelog": ""
   },
   {
     "version-minecraft": "1.21.8",
-    "new-version-minecraft": false,
-    "line-text-1": "", 
-    "line-text-2": "",
+    "new-version-minecraft": true,
+    "line-text-1": "Modpack is available for Minecraft version 1.21.9 and above.", 
+    "line-text-2": "You can download it from optisodium.fun or Modrinth.",
     "version": "1.0.2",
     "download": "https://optisodium.fun/predownload?version=1.21.8",
     "changelog": ""
   },
   {
     "version-minecraft": "1.21.7",
-    "new-version-minecraft": false,
-    "line-text-1": "", 
-    "line-text-2": "",
+    "new-version-minecraft": true,
+    "line-text-1": "Modpack is available for Minecraft version 1.21.8 and above.", 
+    "line-text-2": "You can download it from optisodium.fun or Modrinth.",
     "version": "1.0.2",
     "download": "https://optisodium.fun/predownload?version=1.21.7",
     "changelog": ""
   }
 
 ]
+
