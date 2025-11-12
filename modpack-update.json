@@ -4,9 +4,9 @@
     "new-version-minecraft": false,
     "line-text-1": "", 
     "line-text-2": "",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "download": "https://drive.google.com/drive/folders/1HattvBN2xyOCOYaD-ntAPV_XTbcvQ5Kq?usp=sharing",
-    "changelog": ""
+    "changelog": "Updated optimization mods"
   },
   {
     "version-minecraft": "1.21.9",
@@ -37,5 +37,6 @@
   }
 
 ]
+
 
 
